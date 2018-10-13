@@ -1,5 +1,12 @@
 {
+  "scripts": {
+    "live": "webpack-serve",
+    "build": "webpack"
+  },
   "devDependencies": {
-    "webpack": "^4.20.2"
-  }
+    "webpack": "^4.20.2",
+    "webpack-command": "^0.4.1",
+    "webpack-serve": "^2.0.2"
+  },
+  "dependencies": {}
 }

@@ -65,3 +65,6 @@ typings/
 
 # Mac
 .DS_Store
+
+# Distribution files
+dist/
