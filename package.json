@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Starter-Kit",
   "scripts": {
+    "build": "webpack --mode=production",
     "start": "webpack-dev-server --mode=development --config webpack.config.ts"
   },
   "devDependencies": {
